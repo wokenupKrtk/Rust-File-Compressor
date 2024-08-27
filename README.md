@@ -51,3 +51,7 @@ Copies data from the input file to the encoder, which writes compressed data to 
 
 
 This program demonstrates a straightforward implementation of file compression using Rust's ecosystem, showcasing file I/O, third-party crate usage, and basic performance measurement. It's suitable for command-line use but could be enhanced with better error handling and more configuration options for production use.
+
+
+To run use command:`cargo run source_file.txt target_file.gz`.
+
